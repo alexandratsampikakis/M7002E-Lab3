@@ -1,16 +1,24 @@
 ---------
---LAB 3--
+--Lab 3--
 ---------
+Computer graphics with virtual environments.
 
-Det finns 4 stycken boxar utritade i min värld.
-Dom är tyvärr inte utritade riktigt på terrängen,
-dess koordinater skapas med hjälp av en randomfunktion.
+This course contains these fields:
+* Computer graphics systems and models
+* Computer graphic programming
+* Input and interaction
+* Geometric transformations
+* Projection and rendering of 3D images
+* Object modelling, hierarchical data structures and scenegraphs
+* Fundamental algorithms (rasterization clipping, hidden line and surface removal, anti-aliasing)
+* Lighting and texture
+* Planning, building and use of virtual environments.
 
-Klicka med musen på en av boxarna så börjar den brinna.
-En av boxarna, den som skapades sist av dem rör sig runt en bana
-i världen. Det är bara en av boxarna som rör sig men alla kan börja brinna.
+My world consist of four different boxes in the virtual environment. The boxes coordinates is created with a
+random function so them can appear every where. If you click with your mouse on any of the boxes, you will set
+the box on fire. One of the boxes will move along a track in the world when you click it.
 
-Jag har så att någonting händer av 3 olika inputs:
-* klicka med musen: Den valda boxen börjar brinna.
-* Klicka med musen: En av boxarna rör sig efter en bana.
-* Genom att använda w, a, s och d så flyttar sig kameran.
+-- User manual --
+* Click on a box with your mouse and to start a fire.
+* To move around in the world, just use the buttons w, a, s and d. It is only the camera that changes
+it´s position.
